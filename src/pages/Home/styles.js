@@ -11,7 +11,7 @@ flex-direction: row;
 `;
 
 export const Container = styled.aside`
-//background-color: black;
+
 background-color: ${(propos) => propos.theme.colors.background};
 width: 360px;
 height: 100vh;
