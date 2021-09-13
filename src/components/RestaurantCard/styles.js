@@ -38,3 +38,10 @@ line-height: 19px;
 margin: 10px 0 10px 0;
 
 `;
+
+export const RestaurantePhoto = styled.img`
+width: 100px;
+height: 100px;
+border-radius: 6px;
+
+`;
