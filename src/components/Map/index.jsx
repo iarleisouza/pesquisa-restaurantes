@@ -90,6 +90,7 @@ export const MapContainer = (props) => {
       onReady={onMapReady}
       onRecenter={onMapReady}
       zoom={15}
+      style={{ width: 'calc(100% - 360px)' }}
       {...props}>
       {restaurants.map((restaurant) => (
         <Marker
