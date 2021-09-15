@@ -1,6 +1,6 @@
 {
-  "homepage": "http://joseliojunior.github.io/restaurant-finder",
-  "name": "restaurants-finder",
+  "homepage": "",
+  "name": "pesquisa-restaurantes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
