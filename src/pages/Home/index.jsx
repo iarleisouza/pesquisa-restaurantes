@@ -12,7 +12,7 @@ import {
   CarouselTitle,
   ModalTitle,
   ModalContent,
-} from './styled';
+} from './styles';
 import logo from '../../assets/logo.svg';
 import fakeRestaurant from '../../assets/restaurante-fake.png';
 import { ImageCard, RestaurantCard, Modal, Map, Loader, Skeleton } from '../../components';
