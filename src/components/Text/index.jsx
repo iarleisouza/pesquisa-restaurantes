@@ -8,3 +8,4 @@ const Text = ({ children, size, textStyle, ...others }) => (
 );
 
 export default Text;
+
