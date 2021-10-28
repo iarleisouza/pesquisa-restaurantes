@@ -1,5 +1,4 @@
 Um dos projetos propostos pela DIO (Digital Innovation One) no bootcamp MRV front-end SPA developer.
-
 O projeto criado com a API KEY obtida no Google Maps Plataform, caso queiram testar o projeto solicitem a api key e depois de vincular seu projeto a uma conta de faturamento, criem um arquivo na raiz do projeto chamado .env e coloquem a API KEY la dentro e coloquem esse comando:
 REACT_APP_GOOGLE_API_KEY=".........." após o sinal de = colquem a api key sem aspas.
 
